@@ -4,4 +4,4 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balandzin)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balandzin&size_weight=0.5&count_weight=0.5)
