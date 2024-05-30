@@ -1,3 +1,7 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm [Balandzin Anton](https://t.me/+375336886070)
 =========================================================================================================================================
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=1A2BF7&center=true&vCenter=true&random=false&width=435&lines=IOS+developer+from+Belarus" alt="Typing SVG" /></a>
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=balabdzin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=balabdzin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
