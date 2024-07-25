@@ -1,8 +1,7 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://polycent.ru/media/pictures/images/Hacker.gif"  />
-</div>
+<p align = "center">
+  <a href="https://github.com/PIYUSH-01"><img src="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif" width = "400" height = "333.33" /></a>
+  <h1 align="center"><b>Hello there, I'm Piyush Khurana <img src = "https://user-images.githubusercontent.com/52041719/132241647-8404fc9d-018a-4e23-9de6-1b16fd31e76b.gif" width = "50.0"></b></h1>
+</p>
 
 ###
 <div align="center">
