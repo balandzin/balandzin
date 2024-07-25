@@ -1,8 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://робокод.рф/wp-content/uploads/2023/08/programming-gif.gif"
-</div>  />
+  <img height="300" width="600" src="https://робокод.рф/wp-content/uploads/2023/08/programming-gif.gif" />
 </div>
 
 ###
