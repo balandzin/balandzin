@@ -17,9 +17,3 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 </div>
 
-
-<div align="center">
-  
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-</div>
